@@ -11,4 +11,4 @@ Map showing locations around Baton Rouge, LA that can show details when selected
 
 ## FINAL PROJECT
 Final project for GEOG 4046
-<https://jlebas7.github.io/Final-Project/>
+<https://jlebas7.github.io/final/>
